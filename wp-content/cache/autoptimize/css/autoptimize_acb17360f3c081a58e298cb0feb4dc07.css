@@ -1,0 +1,6 @@
+.simplesocialbuttons.simplesocialbuttons_inline .ssb-fb-like {margin: ;}
+.simplesocialbuttons.simplesocialbuttons_inline.simplesocial-simple-round button {margin: ;}
+html {margin-top: 32px !important;}
+* html body {margin-top: 32px !important;}
+@media screen and (max-width:782px) {html {margin-top: 46px !important;}
+	* html body {margin-top: 46px !important;}}
