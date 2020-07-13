@@ -578,3 +578,11 @@ body .search-submit {border-left: 1px solid #ddd;border-top: none;border-bottom:
 .widget-title, .widgettitle {border-bottom: 2px solid #9b1c51;}
 @media screen and (min-width: 800px) {#sidebar-subsidiary .widget:nth-child(2n+1), #sidebar-front-page .widget:nth-child(2n+1), #sidebar-page-template .widget:nth-child(2n+1), #testimonial-area .entry-testimonial:nth-child(2n+1) {border-right-width: 1px;border-right-style: dashed;border-color: #ddd;}
 	#sidebar-subsidiary .widget:nth-child(n+3), #sidebar-front-page .widget:nth-child(n+3), #sidebar-page-template .widget:nth-child(n+3), #testimonial-area .entry-testimonial:nth-child(n+3) {border-top: 1px dashed #ddd;}}
+.site-header, .custom-header-image .site-header>.wrap:before {background-color: rgba(59,86,103,.7);}
+.socialsbuttons {margin-left: auto;margin-right: auto;width: 300px;height: 250px;position: relative;display: block;}
+.floatbyvli {margin-left: auto;margin-right: auto;width: 160px;height: 600px;position: relative;display: block;}
+.recentcomments a {display: inline !important;padding: 0 !important;margin: 0 !important;}
+body.custom-background {background: #fafafa;}
+#disqus_thread {max-width: 70%;margin-left: 15%;}
+.nav-links {max-width: 70%;margin-left: 15%;}
+#sidebar-subsidiary {max-width: 70%;margin-left: 15%;}
