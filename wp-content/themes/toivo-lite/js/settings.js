@@ -35,7 +35,6 @@
 			open: function () {
 				buttonTop.setAttribute( 'aria-expanded', 'true' );
 				buttonTop.setAttribute( 'aria-pressed', 'true' );
-				navSocial.close();
 			},
 			close: function () {
 				buttonTop.setAttribute( 'aria-expanded', 'false' );
@@ -58,7 +57,6 @@
 			open: function () {
 				buttonSocial.setAttribute( 'aria-expanded', 'true' );
 				buttonSocial.setAttribute( 'aria-pressed', 'true' );
-				navTop.close();
 			},
 			close: function () {
 				buttonSocial.setAttribute( 'aria-expanded', 'false' );
